@@ -7,3 +7,5 @@
 - Win+i open snipping tool
 
 Place the files in the start up directory : Win+r shell:startup
+Install auto hot key
+uses https://github.com/ililim/dual-key-remap
