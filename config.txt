@@ -1,3 +1,0 @@
-remap_key=TAB
-when_alone=TAB
-with_other=LEFT_WIN
